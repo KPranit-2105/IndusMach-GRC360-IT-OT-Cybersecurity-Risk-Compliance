@@ -24,7 +24,7 @@ Before this formal GRC program existed, IndusMach faced a classic industrial con
 ### Core GRC Principle
 
 <p align="center">
-  <img src="assets_indusmach/grc_principle.svg" alt="Core GRC Principle Flow — Vulnerability to Resolution" width="1000">
+  <img src="indusmach/grc_principle.svg" alt="Core GRC Principle Flow — Vulnerability to Resolution" width="1000">
 </p>
 
 This project demonstrates how a **Senior Cybersecurity GRC Analyst** acts as a strategic risk facilitator between Security, Plant Operations, EHS (Safety), Finance, and Executive Leadership — turning an impasse into a documented, monitored, time-bound decision.
@@ -36,7 +36,7 @@ This project demonstrates how a **Senior Cybersecurity GRC Analyst** acts as a s
 Every asset, risk, and control in this program is scoped against the industry-standard Purdue Model, so segmentation decisions (like the Industrial DMZ used in the flagship case below) have a clear architectural basis.
 
 <p align="center">
-  <img src="assets_indusmach/purdue_model.svg" alt="Purdue Model IT/OT Architecture Levels 0-5" width="700">
+  <img src="indusmach/purdue_model.svg" alt="Purdue Model IT/OT Architecture Levels 0-5" width="700">
 </p>
 
 ---
@@ -44,7 +44,7 @@ Every asset, risk, and control in this program is scoped against the industry-st
 ## 3. Key Repository Metrics
 
 <p align="center">
-  <img src="assets_indusmach/program_scale.svg" alt="IndusMach GRC Program Scale Overview" width="950">
+  <img src="indusmach/program_scale.svg" alt="IndusMach GRC Program Scale Overview" width="950">
 </p>
 
 | Element / Dataset | Total Quantity / Scope | Key Deliverables & Artifacts |
@@ -93,7 +93,7 @@ IndusMach-IT-OT-GRC-Project/
 ## 5. Flagship Case Study — Legacy Gear Shaping CNC Machine
 
 <p align="center">
-  <img src="assets_indusmach/cnc_case_flow.svg" alt="Flagship Case Study Flow — Legacy CNC Machine Risk Decision" width="1000">
+  <img src="indusmach/cnc_case_flow.svg" alt="Flagship Case Study Flow — Legacy CNC Machine Risk Decision" width="1000">
 </p>
 
 | | |
@@ -119,7 +119,7 @@ IndusMach-IT-OT-GRC-Project/
 This program is designed for seamless mapping into ServiceNow GRC / IRM.
 
 <p align="center">
-  <img src="assets_indusmach/servicenow_mapping.svg" alt="ServiceNow GRC IRM Implementation Architecture" width="750">
+  <img src="indusmach/servicenow_mapping.svg" alt="ServiceNow GRC IRM Implementation Architecture" width="750">
 </p>
 
 | GRC Concept | ServiceNow Table |
